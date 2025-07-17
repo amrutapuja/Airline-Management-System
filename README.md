@@ -23,7 +23,7 @@ This is a Java-based desktop application to automate the airline reservation and
 Each module accesses a related MySQL schema and tables for data management.
 
 ## Screenshots
-![Login Page]("C:\Users\shara\OneDrive\Pictures\Screenshots\Screenshot 2025-07-17 175358.png")
+![Login Page]("C:/Users/shara/OneDrive/Pictures/Screenshots/Screenshot 2025-07-17 175358.png")
 ![Home Page]("C:\Users\shara\OneDrive\Pictures\Screenshots\Screenshot 2025-07-17 175440.png")
 ![FlightInfo Page]("C:\Users\shara\OneDrive\Pictures\Screenshots\Screenshot 2025-07-17 175503.png");
 ![AddCustomer Page]("C:\Users\shara\OneDrive\Pictures\Screenshots\Screenshot 2025-07-17 175530.png")
